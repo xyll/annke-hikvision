@@ -6,6 +6,8 @@ using ffmpeg to watch streams from annke/hikvision cameras
 
 ptz.sh - bash script for ptz controls. tested with annke zc400 surveillance pan tilt zoom camera.
 
+Accordingly to https://www.youtube.com/watch?v=Ys6MCk46_kI annke zc400  is identical to Hikvision DS-2DE2A404IW-DE3
+
 run:
 
 
